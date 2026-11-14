@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200" role="img" aria-label="jsonlens banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e1b4b"/>
+      <stop offset="1" stop-color="#312e81"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" rx="16" fill="url(#bg)"/>
+  <text x="400" y="70" text-anchor="middle" font-family="monospace" font-size="42" font-weight="bold" fill="#a5b4fc">jsonlens</text>
+  <text x="400" y="100" text-anchor="middle" font-family="monospace" font-size="16" fill="#c7d2fe">pretty-print &amp; query JSON</text>
+  <text x="250" y="160" font-family="monospace" font-size="28" fill="#818cf8">{</text>
+  <text x="540" y="160" font-family="monospace" font-size="28" fill="#818cf8">}</text>
+  <circle cx="300" cy="150" r="12" fill="none" stroke="#fbbf24" stroke-width="3">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 190 0; 0 0" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <line x1="309" y1="159" x2="318" y2="168" stroke="#fbbf24" stroke-width="3" stroke-linecap="round">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 190 0; 0 0" dur="4s" repeatCount="indefinite"/>
+  </line>
+</svg>
